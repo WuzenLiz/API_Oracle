@@ -1,0 +1,24 @@
+{
+  "Category":[{
+            "id":1,
+            "name":"Population"
+    }; {
+            "id":2,
+            "name":"Age"
+    }; {
+            "id":3,
+            "name":"Education"
+    }; {
+            "id":4,
+            "name":"Religion"
+    }; {
+            "id":5,
+            "name":"medical"
+    }; {
+            "id":6,
+            "name":"Agriculture"
+    }; {
+            "id":7,
+            "name":"Industry"
+    }]
+}
