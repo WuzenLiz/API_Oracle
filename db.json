@@ -2,8 +2,7 @@
   "Category":[{
             "id":1,
             "name":"Population",
-            "content":
-            [{
+            "content":[{
                 "id":1,
                 "Name": "Sample 1",
                 "Year": "2019",
@@ -30,13 +29,12 @@
                 "Year": "2019",
                 "link": "/hrefnonelink"
 
-            }]
+        }]
     },
     {
             "id":2,
-            "name":"Age"
-            "content":
-            [{
+            "name":"Age",
+            "content":[{
                 "id":1,
                 "Name": "Sample 1",
                 "Year": "2019",
@@ -64,9 +62,10 @@
                 "link": "/hrefnonelink"
 
             }]
-    }, {
+    }, 
+    {
             "id":3,
-            "name":"Education"
+            "name":"Education",
             "content":
             [{
                 "id":1,
@@ -98,7 +97,7 @@
             }]
     }, {
             "id":4,
-            "name":"Religion"
+            "name":"Religion",
             "content":
             [{
                 "id":1,
@@ -130,7 +129,7 @@
             }]
     }, {
             "id":5,
-            "name":"medical"
+            "name":"medical",
             "content":
             [{
                 "id":1,
@@ -162,7 +161,7 @@
             }]
     }, {
             "id":6,
-            "name":"Agriculture"
+            "name":"Agriculture",
             "content":
             [{
                 "id":1,
@@ -194,7 +193,7 @@
             }]
     }, {
             "id":7,
-            "name":"Industry"
+            "name":"Industry",
             "content":
             [{
                 "id":1,
